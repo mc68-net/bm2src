@@ -17,6 +17,13 @@ You can also find some (but not all) older versions on [this page on
 archive.org][ar]. Enter "bm2" in the "filter results" box to see them more
 easily.
 
+### Updates
+
+This rep is manually updated by someone once in a while going to the [bm2
+site][bm2], downloading the latest source versions there, copying them to
+the `archive/` directory, and committing them. Thus, not all versions
+that have ever existed may be present.
+
 
 
 <!-------------------------------------------------------------------->
